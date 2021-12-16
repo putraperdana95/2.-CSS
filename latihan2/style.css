@@ -1,0 +1,15 @@
+h1	{
+	font-family: arial, sans-serif;
+	font-size: 100px;
+	font-variant: small-caps;
+	font-style: italic;
+}
+p	{
+	font-family: comic sans ms, serif;
+	font-style: italic;
+	line-height: 25px;
+}
+
+h2	{
+	font: italic 25px/35px times new roman, sans-serif;
+}

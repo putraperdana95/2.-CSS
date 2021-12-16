@@ -1,0 +1,21 @@
+h1 {
+	font-size: 70px;
+	color: darkblue;
+	text-align: center;
+	text-decoration: underline;
+	letter-spacing: 5px;
+}
+
+p {
+	font-size: 20px;
+	color: black;
+	text-align: justify;
+	text-indent: 50px;
+	word-spacing: 5px;
+}
+
+body {
+	background-color: greenyellow;
+	background-image: url(gambar/bg3.jpg);
+
+}

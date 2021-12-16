@@ -1,0 +1,26 @@
+/* belajar mengenai text styling */
+h1 {
+	font-size: 70px;
+	color: darkblue;
+	font-variant: small-caps;
+	text-align: center;
+	text-decoration: underline;
+	letter-spacing: 5px;
+}
+
+p {
+	font-size: 15px;
+	color: black;
+	text-align: justify;
+	text-indent: 50px;
+	word-spacing: 5px;
+}
+
+h3 {
+	font-size: 30px;
+	color: darkgoldenrod;
+	text-align: center;
+	text-decoration: underline;
+	letter-spacing: 5px;
+	word-spacing: 3px;
+}

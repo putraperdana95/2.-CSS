@@ -1,0 +1,40 @@
+h1, h2{
+	color: darkblue;
+	font-variant: small-caps;
+}
+
+ul li a {
+	color: darkgoldenrod;
+	font-size: 20px;
+}
+
+ol li a {
+	color: darkcyan;
+	font-size: 20px;
+}
+
+a {
+	color: darkgreen;
+}
+
+#paragraf1 {
+	color: darkgoldenrod;
+}
+
+.paragraf2 {
+	color: darkred;
+}
+
+.bold {
+	font-weight: bold;
+	font-size: 30px;
+	font-family: arial narrow, serif;
+}
+
+p.bold {
+	font-style: italic;
+}
+
+a.bold {
+	text-decoration: underline;
+}

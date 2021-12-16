@@ -1,0 +1,43 @@
+.putra:link {
+	color: red;
+}
+
+.putra:hover {
+	font-size: 20px;
+	font-style: italic;
+	font-family: arial;
+}
+
+.putra:active {
+	color: greenyellow;
+}
+
+.putra:visited {
+	color: red;
+}
+
+li:first-child a{
+	color: green;
+}
+
+li:last-child a {
+	color: yellowgreen;
+}
+
+li:nth-child(5) a{
+	color: red;
+}
+
+li:nth-child(2n+1) a:hover {
+	color: lightblue;
+	font-size: 20px;
+	font-family: arial narrow;
+}
+
+p:first-of-type {
+	color: darkgoldenrod;
+}
+
+p:last-of-type {
+	color: orangered;
+}
